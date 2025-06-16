@@ -25,3 +25,10 @@ This project fetches weather forecast data from the OpenWeatherMap API and creat
 
 ```bash
 pip install -r requirements.txt
+
+
+
+# RESULT:
+1) TEMPERATURE :
+![Image](https://github.com/user-attachments/assets/68a303bf-e92c-43d8-9c7f-ad158fd37296)
+
