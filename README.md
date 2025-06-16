@@ -32,3 +32,7 @@ pip install -r requirements.txt
 1) TEMPERATURE :
 ![Image](https://github.com/user-attachments/assets/68a303bf-e92c-43d8-9c7f-ad158fd37296)
 
+2) HUMIDITY :
+![Image](https://github.com/user-attachments/assets/20a5f5ec-5dc5-4bdc-a416-668dcdf6ffb1)
+
+
