@@ -23,7 +23,7 @@ This project fetches weather forecast data from the OpenWeatherMap API and creat
 
 # Install Required Libraries
 
-```bash
+
 pip install -r requirements.txt
 
 
