@@ -35,4 +35,7 @@ pip install -r requirements.txt
 2) HUMIDITY :
 ![Image](https://github.com/user-attachments/assets/20a5f5ec-5dc5-4bdc-a416-668dcdf6ffb1)
 
+3) WEATHER DASHBOARD :
+![Image](https://github.com/user-attachments/assets/02d4ee19-d500-44db-897e-a2dc416f8d45)
+
 
