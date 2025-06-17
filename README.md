@@ -39,3 +39,6 @@ pip install -r requirements.txt
 ![Image](https://github.com/user-attachments/assets/02d4ee19-d500-44db-897e-a2dc416f8d45)
 
 
+Completion : This project is part of the CODTECH Internship submission for the API INTEGRATION AND DATA VISUALIZATION  Task
+
+
